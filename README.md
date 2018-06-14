@@ -2,7 +2,7 @@ Example repo for simplifying your build, both for library development, and havin
 
 To get started:
 
-1. change the name of `/package.json` to the name of your project
+1. change the name in the `/package.json` object to the name of your project (`"name": "@me/my-app"`)
 2. `yarn install` (**Yarn** is _required_ for this particular build to work)
 3. open two terminals and enter the following in order
     1. `yarn build:watch`
