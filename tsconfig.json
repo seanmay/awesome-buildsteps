@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "sourceMap": true,
+    "jsx": "react",
+    "declaration": true,
+    "declarationMap": true,
+    "outDir": "dist"
+  },
+  "files": ["src/index.tsx"]
+}

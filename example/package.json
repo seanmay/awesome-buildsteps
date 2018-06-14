@@ -1,0 +1,16 @@
+{
+  "name": "@me/example-repo",
+  "version": "0.0.0",
+  "dependencies": {
+    "@types/react": "^16.3.17",
+    "@types/react-dom": "^16.0.6",
+    "parcel-bundler": "latest",
+    "react-dom": "^16.4.1",
+    "react": "^16.4.1",
+    "awesome-buildsteps": "link:./..",
+    "typescript": "latest"
+  },
+  "scripts": {
+    "postinstall": "echo 'so have I !!!'"
+  }
+}
